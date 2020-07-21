@@ -1,2 +1,2 @@
 # CppMiniProjects
-C++ Mini Projects
+# Learning Modern C++ : C++ Mini Projects
